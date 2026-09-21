@@ -1,2 +1,3 @@
 # StaticboundsLimitAdjuster
-Extends the static bound bool limits, fixing crashes related to heavy map mods and MP maps.
+Extends Grand Theft Auto 5's static bound bool limits. 
+This aims to fix crashes related to heavy map mods and MP maps.
