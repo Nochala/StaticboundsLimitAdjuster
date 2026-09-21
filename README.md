@@ -4,7 +4,6 @@
 
 ![GTA V](https://img.shields.io/badge/Grand%20Theft%20Auto%20V-Legacy%20%7C%20Enhanced-2ea44f?style=flat&logo=rockstargames&logoColor=white)
 ![Static Bounds](https://img.shields.io/badge/Static%20Bounds-Limit%20Adjuster-8A2BE2?style=flat)
-![Crash Fix](https://img.shields.io/badge/Fixes-Map%20Mod%20Crashes-d73a49?style=flat)
 ![C++](https://img.shields.io/badge/Native-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 </p>
